@@ -104,7 +104,8 @@ Faker: برای تولید داده‌های نمونه <br />
 
 
 ## توسعه‌دهنده
-
-- **مهدی جلالی**
+**مهدی جلالی**
+-  [مشاهده رزومه](https://docs.google.com/document/d/e/2PACX-1vQGJczbWNIFGGPktSpRhfyP3db0G8EQW4K5XajKYhLLsTSpzv9QhdfuaYr7pRrW6Q/pub)
+-   [لینکدین](https://www.linkedin.com/in/mehdi-jalalii/)
 
 
